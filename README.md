@@ -1,6 +1,6 @@
 # apptheme
 
-A new Flutter project.
+App theming using Riverpod - Light Theme/Dark Theme
 
 ## Getting Started
 
